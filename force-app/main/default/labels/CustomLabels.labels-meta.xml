@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>OpenCageEndPoint</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenCageEndPoint</shortDescription>
+        <value>https://api.opencagedata.com/geocode/v1/json?</value>
+    </labels>
+    <labels>
+        <fullName>OpenCageKey</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenCageKey</shortDescription>
+        <value>7044f0e5725f4eb4bf89a02b20dca97f</value>
+    </labels>
+</CustomLabels>
